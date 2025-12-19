@@ -1,5 +1,3 @@
-# Employee-Absenteeism-Analysis
-
 # Employee Absenteeism Analysis  
 ## Multidimensional Modeling (Star Schema)
 
