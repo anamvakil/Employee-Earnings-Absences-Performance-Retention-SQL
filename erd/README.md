@@ -7,8 +7,6 @@ The schema supports analytical querying and reporting on workforce behavior usin
 
 ## Star Schema Diagram
 
-![Employee Absenteeism Star Schema](employee_absenteeism_star_schema.png)
-
 <img width="1332" height="759" alt="image" src="https://github.com/user-attachments/assets/c2ea5460-2b51-46fc-9a66-6736024cf762" />
 
 <img width="511" height="361" alt="image" src="https://github.com/user-attachments/assets/d3357c6d-1408-4bff-b201-6728979ca9e3" />
