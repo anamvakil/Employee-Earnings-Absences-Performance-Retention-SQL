@@ -94,5 +94,32 @@ Normalization improved data quality, reduced redundancy, and ensured referential
 
 ---
 
-## Repository Structure
+
+---
+
+## Key Insights
+
+- High absenteeism is strongly associated with reduced earnings
+- Absence behavior follows seasonal patterns
+- Departments vary significantly in earnings and retention
+- Normalization and indexing substantially improved query performance
+- Advanced SQL features enabled automation and deeper analytics
+
+---
+
+## Contribution Note
+
+This was a **group academic project**.  
+My primary contributions included:
+- Designing the normalized and star schema database model
+- Creating fact and dimension tables
+- Implementing constraints, indexes, and relationships
+- Writing analytical SQL queries
+- Developing stored procedures and triggers
+- Contributing to technical documentation and analysis
+
+---
+
+This project demonstrates applied data warehousing, SQL analytics, and multidimensional modeling concepts using real-world workforce data.
+
 
