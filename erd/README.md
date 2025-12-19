@@ -9,7 +9,9 @@ The schema supports analytical querying and reporting on workforce behavior usin
 
 <img width="1366" height="875" alt="image" src="https://github.com/user-attachments/assets/f1959954-20d3-4dad-b538-1049ca05421a" />
 
+
 <img width="1332" height="759" alt="image" src="https://github.com/user-attachments/assets/c2ea5460-2b51-46fc-9a66-6736024cf762" />
+
 
 <img width="511" height="361" alt="image" src="https://github.com/user-attachments/assets/d3357c6d-1408-4bff-b201-6728979ca9e3" />
 
